@@ -176,7 +176,7 @@
   max-width: 100%;
 }
 
-.recipe__container {
+.container {
   position: relative;
   overflow: hidden;
   width: 100%;
