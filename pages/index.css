@@ -63,12 +63,6 @@
   line-height: 20px;
 }
 
-.header__content {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
 .header__title {
   display: flex;
   max-width: 709px;
@@ -182,14 +176,14 @@
   max-width: 100%;
 }
 
-.container {
+.recipe__container {
   position: relative;
   overflow: hidden;
   width: 100%;
   padding-top: 56.25%;
 }
 
-.container__iframe {
+.recipe__iframe {
   position: absolute;
   top: 0;
   right: 0;
